@@ -12,12 +12,12 @@ const repeatString = function(string, num) {
     return repeatedString;
 };
 
-repeatString("hey", 3);
-repeatString("hey", 10);
-repeatString("hey", 1);
-repeatString("hey", 0);
-repeatString("hey", -1);
-repeatString("", 10);
+// repeatString("hey", 3);
+// repeatString("hey", 10);
+// repeatString("hey", 1);
+// repeatString("hey", 0);
+// repeatString("hey", -1);
+// repeatString("", 10);
 
 
 
